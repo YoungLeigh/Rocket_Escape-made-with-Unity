@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 321}
   m_MaxSize: {x: 16192, y: 12117}
   vertical: 0
-  controlID: 50
+  controlID: 21
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 242
     height: 354
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 321}
   m_MaxSize: {x: 8096, y: 12117}
   vertical: 1
-  controlID: 40
+  controlID: 27
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 41
+  controlID: 28
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Audio
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Audio
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\yoony\Rocket Escape
+  m_LastProjectPath: C:\Users\yoony\OneDrive\Desktop\Github_folder\Unity_Projects\Rocket
+    Escape
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 04600000
-    m_LastClickedID: 24580
-    m_ExpandedIDs: 000000005c5f000000ca9a3b
+    m_SelectedIDs: 665a0000
+    m_LastClickedID: 23142
+    m_ExpandedIDs: 00000000365a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000365a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,7 +491,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 00a9ffff32fbffff
+      m_ExpandedIDs: 7058ffff825bffffd25cffff045effff4660ffff1c62ffff7e67ffff0895ffff5298ffffe89effffa0baffff10bbffff98bbffff1cbcffffa0bcfffffcbdffffb6c0ffff36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -772,9 +773,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.346794, y: -9.82181, z: -40.73224}
+    m_Target: {x: -7.441082, y: -15.71391, z: 34.530037}
     speed: 2
-    m_Value: {x: -8.346794, y: -9.82181, z: -40.73224}
+    m_Value: {x: -7.441082, y: -15.71391, z: 34.530037}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -821,13 +822,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.01028614, y: -0.9840021, z: 0.16739137, w: 0.06049118}
+    m_Target: {x: -0.24593852, y: 0.061798155, z: -0.015717614, w: -0.9672105}
     speed: 2
-    m_Value: {x: 0.010285909, y: -0.98398006, z: 0.16738762, w: 0.060489822}
+    m_Value: {x: -0.24593264, y: 0.061796676, z: -0.015717238, w: -0.9671873}
   m_Size:
-    m_Target: 27.809687
+    m_Target: 25.056524
     speed: 2
-    m_Value: 27.809687
+    m_Value: 25.056524
   m_Ortho:
     m_Target: 0
     speed: 2
