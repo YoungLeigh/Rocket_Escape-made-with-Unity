@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 242725390}
   - component: {fileID: 242725389}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Obstacle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -457,6 +457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Landing Pad
       objectReference: {fileID: 0}
+    - target: {fileID: 7713885339139095357, guid: 7059c514940bb0a42abd93a8d20de261, type: 3}
+      propertyPath: m_TagString
+      value: Finish
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7059c514940bb0a42abd93a8d20de261, type: 3}
 --- !u!1001 &862908248738324749
@@ -580,13 +584,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1996914702, guid: 031548ef4bf178c4daabe9dee273491c, type: 3}
-      propertyPath: m_Drag
-      value: 0.25
+    - target: {fileID: 1211179265, guid: 031548ef4bf178c4daabe9dee273491c, type: 3}
+      propertyPath: Loop
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1996914702, guid: 031548ef4bf178c4daabe9dee273491c, type: 3}
-      propertyPath: m_Constraints
-      value: 56
+    - target: {fileID: 1211179265, guid: 031548ef4bf178c4daabe9dee273491c, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 9e890774d6b22594f9bc463efee14e28, type: 3}
+    - target: {fileID: 1211179265, guid: 031548ef4bf178c4daabe9dee273491c, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3064861609712456976, guid: 031548ef4bf178c4daabe9dee273491c, type: 3}
       propertyPath: m_Name
