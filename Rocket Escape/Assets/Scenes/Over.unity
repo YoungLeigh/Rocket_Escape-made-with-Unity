@@ -575,6 +575,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Launch Pad
       objectReference: {fileID: 0}
+    - target: {fileID: 7713885339139095357, guid: 7059c514940bb0a42abd93a8d20de261, type: 3}
+      propertyPath: m_TagString
+      value: Friendly
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7059c514940bb0a42abd93a8d20de261, type: 3}
 --- !u!1001 &2784019346797610103
